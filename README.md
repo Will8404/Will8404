@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Automating with Ansible
 - 📫 How to reach me: ...https://www.linkedin.com/in/umaru-williams-a8322351/
+- You can verify my certification at .....https://www.credly.com/badges/24fd2edd-12e1-471d-b5d0-8ce9f51017e4/public_url
 - 😄 Pronouns: ...He/Him
 Stay tuned: More coming soon!
 <!--
